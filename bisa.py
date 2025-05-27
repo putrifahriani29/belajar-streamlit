@@ -21,5 +21,6 @@ st.write(f"Umur kamu adalah {umur} tahun.")
 # Checkbox
 if st.checkbox("Tampilkan pesan rahasia"):
     st.write("Ini pesan rahasia!")
+    st.write("Ini bukan pesan rahasia!")
 
 #
